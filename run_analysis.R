@@ -2,7 +2,7 @@
       ## Project: Assignment 1- Generate tidy datasets
       ## Purpose: Learn to generate tidy data sets 
       ## Last Updated: 02/22/2015
-      ## Machine(Windows 7): S/No: WB13966327
+      ## Machine(Windows 8): S/No: WB13966327
       ##------------------------------------------------------------------------
       # clear workspace
 rm(list = ls()) 
